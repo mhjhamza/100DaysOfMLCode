@@ -4,4 +4,4 @@
 
 **Today's Progress** : I have practiced implementing Sentimental Analysis with Keras.
 
-**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/Day1)
+**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Day1/Day1.ipynb)
