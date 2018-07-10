@@ -1,9 +1,7 @@
 # 100 Days Of ML - LOG
 
-## Day 1 : Jul 09 , 2018
+## Day 1 : Jul 10 , 2018
 
-**Today's Progress** : I have .
+**Today's Progress** : I have practiced implementing Sentimental Analysis with Keras.
 
-**Thoughts** : It is .
-
-**Link of Work:**   [Commit](https://github.com/)
+**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/Day1)
