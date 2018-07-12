@@ -12,4 +12,9 @@
 
 **Link of Work:**   [Paper](https://goo.gl/j2qixZ)
 
+## Day 3 : Jul 12 , 2018
 
+**Today's Progress** : Learned and implemented Keras Functional API for defining complex models, such as multi-output models, directed acyclic graphs, or models with shared layers.
+
+
+**Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day3.ipynb)
