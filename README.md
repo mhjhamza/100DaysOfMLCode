@@ -14,7 +14,13 @@
 
 ## Day 3 : Jul 12 , 2018
 
-**Today's Progress** : Learned and implemented Keras Functional API for defining complex models, such as multi-output models, directed acyclic graphs, or models with shared layers.
-
+**Today's Progress** : Learned and implemented Keras Functional API for defining complex models, such as multi-output models, directed acyclic graphs, and models with shared layers.
 
 **Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day3.ipynb)
+
+## Day 4 : Jul 13 , 2018
+
+**Today's Progress** : Experimented with 'Predict Pakistan Elections 2018' Kaggle kernel by [Ammar Malik](https://www.kaggle.com/ammarmalik)
+
+
+**Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day4.ipynb)
