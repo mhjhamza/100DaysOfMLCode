@@ -29,3 +29,9 @@
 **Today's Progress** : Learned and practiced Data Wrangling, Data Visualization with Matplotlib and Seaborn, and basic maths and statistics on a CARS dataset.
 
 **Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day5.ipynb)
+
+## Day 6 : Jul 15 , 2018
+
+**Today's Progress** : Learned and practiced Dimensionality Reduction techniques and Outlier Analysis on IRIS dataset.
+
+**Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day6.ipynb)
