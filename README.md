@@ -22,5 +22,10 @@
 
 **Today's Progress** : Experimented with 'Predict Pakistan Elections 2018' Kaggle kernel by [Ammar Malik](https://www.kaggle.com/ammarmalik)
 
-
 **Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day4.ipynb)
+
+## Day 5 : Jul 14 , 2018
+
+**Today's Progress** : Learned and practiced Data Wrangling, Data Visualization with Matplotlib and Seaborn, and basic maths and statistics on a CARS dataset.
+
+**Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day5.ipynb)
