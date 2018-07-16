@@ -35,3 +35,9 @@
 **Today's Progress** : Learned and practiced Dimensionality Reduction techniques and Outlier Analysis on IRIS dataset.
 
 **Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day6.ipynb)
+
+## Day 7 : Jul 16 , 2018
+
+**Today's Progress** : Learned and practiced K-Means Clustering, K-NN, Linear Regression, Logistic Regression, and Naive Bayes Classifier.
+
+**Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day7.ipynb)
