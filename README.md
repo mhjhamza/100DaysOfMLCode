@@ -41,3 +41,9 @@
 **Today's Progress** : Learned and practiced K-Means Clustering, K-NN, Linear Regression, Logistic Regression, and Naive Bayes Classifier.
 
 **Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day7.ipynb)
+
+## Day 8 : Jul 17 , 2018
+
+**Today's Progress** : Learned and practiced Web-based Data visualization with Plotly.
+
+**Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day8.ipynb)
