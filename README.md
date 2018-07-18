@@ -47,3 +47,10 @@
 **Today's Progress** : Learned and practiced Web-based Data visualization with Plotly.
 
 **Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day8.ipynb)
+
+## Day 9 : Jul 18 , 2018
+
+**Today's Progress** : Learned and practiced BeautifulSoup for parsing HTML webpages. 
+
+**Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day9.ipynb)
+
