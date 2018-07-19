@@ -54,3 +54,9 @@
 
 **Link of Work:**   [commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day9.ipynb)
 
+## Day 10 : Jul 19 , 2018
+
+**Today's Progress** : Read articles from the book "HBR Guide to Data Analytics Basics for Managers".
+
+**Link of Work:**   [Book](https://hbr.org/product/hbr-guide-to-data-analytics-basics-for-managers/10185-PBK-ENG)
+
