@@ -60,3 +60,10 @@
 
 **Link of Work:**   [Book](https://hbr.org/product/hbr-guide-to-data-analytics-basics-for-managers/10185-PBK-ENG)
 
+## Day 11 : Jul 20 , 2018
+
+**Today's Progress** : Took "Become a Data Scientist" course on Lynda.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/paths/become-a-data-scientist)
+
+
