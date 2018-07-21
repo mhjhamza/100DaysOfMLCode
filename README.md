@@ -66,4 +66,10 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/paths/become-a-data-scientist)
 
+## Day 12 : Jul 21 , 2018
+
+**Today's Progress** : Took "Data Science Foundations: Fundamentals" course on Lynda.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/data-science-foundations-fundamentals/exploratory-graphs)
+
 
