@@ -72,4 +72,9 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/data-science-foundations-fundamentals/exploratory-graphs)
 
+## Day 13 : Jul 22 , 2018
+
+**Today's Progress** : Completed "Data Science Foundations: Fundamentals" course on LinkedIn Learning.
+
+**Link of Work:**   [Certificate](https://goo.gl/iHk4eK)
 
