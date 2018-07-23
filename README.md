@@ -78,3 +78,9 @@
 
 **Link of Work:**   [Certificate](https://goo.gl/iHk4eK)
 
+## Day 14 : Jul 23 , 2018
+
+**Today's Progress** : Completed "Statistics Foundations 1" course on LinkedIn Learning.
+
+**Link of Work:**   [Certificate](https://drive.google.com/open?id=1uR47qy6NmREhD0mYyvwq5zdrxKg7zhLY)
+
