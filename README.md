@@ -84,3 +84,9 @@
 
 **Link of Work:**   [Certificate](https://drive.google.com/open?id=1uR47qy6NmREhD0mYyvwq5zdrxKg7zhLY)
 
+## Day 15 : Jul 24 , 2018
+
+**Today's Progress** : Took "Data Mining" course on LinkedIn Learning and practiced Clustering, Classification and Outlier Detection.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/data-science-foundations-data-mining/welcome)
+
