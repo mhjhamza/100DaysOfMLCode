@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<process version="7.1.000">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="7.1.000" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="retrieve" compatibility="7.1.000" expanded="true" height="68" name="Retrieve" width="90" x="715" y="34">
+        <parameter key="repository_entry" value="../data/b5"/>
+      </operator>
+      <operator activated="true" class="principal_component_analysis" compatibility="7.1.000" expanded="true" height="103" name="PCA" width="90" x="916" y="34">
+        <parameter key="dimensionality_reduction" value="fixed number"/>
+        <parameter key="variance_threshold" value="0.95"/>
+        <parameter key="number_of_components" value="5"/>
+      </operator>
+      <operator activated="true" class="apply_model" compatibility="7.1.000" expanded="true" height="82" name="Apply Model" width="90" x="1117" y="34">
+        <list key="application_parameters"/>
+        <parameter key="create_view" value="false"/>
+      </operator>
+      <connect from_op="Retrieve" from_port="output" to_op="PCA" to_port="example set input"/>
+      <connect from_op="PCA" from_port="original" to_op="Apply Model" to_port="unlabelled data"/>
+      <connect from_op="PCA" from_port="preprocessing model" to_op="Apply Model" to_port="model"/>
+      <connect from_op="Apply Model" from_port="labelled data" to_port="result 1"/>
+      <connect from_op="Apply Model" from_port="model" to_port="result 2"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+    </process>
+  </operator>
+</process>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<process version="7.1.000">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="7.1.000" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_csv" compatibility="7.1.000" expanded="true" height="68" name="Read CSV" width="90" x="246" y="34">
+        <parameter key="csv_file" value="/Users/bart/Desktop/winequality-red.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="false"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="false"/>
+        <list key="annotations">
+          <parameter key="0" value="Name"/>
+        </list>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="windows-1252"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="fixed acidity.true.real.attribute"/>
+          <parameter key="1" value="volatile acidity.true.real.attribute"/>
+          <parameter key="2" value="citric acid.true.real.attribute"/>
+          <parameter key="3" value="residual sugar.true.real.attribute"/>
+          <parameter key="4" value="chlorides.true.real.attribute"/>
+          <parameter key="5" value="free sulfur dioxide.true.integer.attribute"/>
+          <parameter key="6" value="total sulfur dioxide.true.integer.attribute"/>
+          <parameter key="7" value="density.true.real.attribute"/>
+          <parameter key="8" value="pH.true.real.attribute"/>
+          <parameter key="9" value="sulphates.true.real.attribute"/>
+          <parameter key="10" value="alcohol.true.real.attribute"/>
+          <parameter key="11" value="quality.true.numeric.label"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="true"/>
+        <parameter key="datamanagement" value="double_array"/>
+      </operator>
+      <operator activated="true" class="linear_regression" compatibility="7.1.000" expanded="true" height="103" name="Linear Regression" width="90" x="380" y="34">
+        <parameter key="feature_selection" value="M5 prime"/>
+        <parameter key="alpha" value="0.05"/>
+        <parameter key="max_iterations" value="10"/>
+        <parameter key="forward_alpha" value="0.05"/>
+        <parameter key="backward_alpha" value="0.05"/>
+        <parameter key="eliminate_colinear_features" value="true"/>
+        <parameter key="min_tolerance" value="0.05"/>
+        <parameter key="use_bias" value="true"/>
+        <parameter key="ridge" value="1.0E-8"/>
+      </operator>
+      <operator activated="true" class="apply_model" compatibility="7.1.000" expanded="true" height="82" name="Apply Model" width="90" x="514" y="34">
+        <list key="application_parameters"/>
+        <parameter key="create_view" value="false"/>
+      </operator>
+      <operator activated="true" class="performance_regression" compatibility="7.1.000" expanded="true" height="82" name="Performance" width="90" x="648" y="34">
+        <parameter key="main_criterion" value="root_mean_squared_error"/>
+        <parameter key="root_mean_squared_error" value="true"/>
+        <parameter key="absolute_error" value="false"/>
+        <parameter key="relative_error" value="false"/>
+        <parameter key="relative_error_lenient" value="false"/>
+        <parameter key="relative_error_strict" value="false"/>
+        <parameter key="normalized_absolute_error" value="false"/>
+        <parameter key="root_relative_squared_error" value="false"/>
+        <parameter key="squared_error" value="false"/>
+        <parameter key="correlation" value="false"/>
+        <parameter key="squared_correlation" value="false"/>
+        <parameter key="prediction_average" value="false"/>
+        <parameter key="spearman_rho" value="false"/>
+        <parameter key="kendall_tau" value="false"/>
+        <parameter key="skip_undefined_labels" value="true"/>
+        <parameter key="use_example_weights" value="true"/>
+      </operator>
+      <connect from_op="Read CSV" from_port="output" to_op="Linear Regression" to_port="training set"/>
+      <connect from_op="Linear Regression" from_port="model" to_op="Apply Model" to_port="model"/>
+      <connect from_op="Linear Regression" from_port="exampleSet" to_op="Apply Model" to_port="unlabelled data"/>
+      <connect from_op="Apply Model" from_port="labelled data" to_op="Performance" to_port="labelled data"/>
+      <connect from_op="Performance" from_port="performance" to_port="result 1"/>
+      <connect from_op="Performance" from_port="example set" to_port="result 2"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+    </process>
+  </operator>
+</process>

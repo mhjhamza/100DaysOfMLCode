@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<process version="7.1.000">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="6.0.002" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="text:read_document" compatibility="7.0.000" expanded="true" height="68" name="JaneEyre" width="90" x="648" y="34">
+        <parameter key="file" value="/Users/bart/Desktop/JaneEyre.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:tokenize" compatibility="7.0.000" expanded="true" height="68" name="TokenizeJE" width="90" x="782" y="34">
+        <parameter key="mode" value="regular expression"/>
+        <parameter key="characters" value=".:"/>
+        <parameter key="expression" value="[-!&quot;#$%&amp;'()*+,./:;&lt;=&gt;?@\[\\\]_`{|}~]"/>
+        <parameter key="language" value="English"/>
+        <parameter key="max_token_length" value="3"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.0.000" expanded="true" height="68" name="WutheringHeights" width="90" x="648" y="136">
+        <parameter key="file" value="/Users/bart/Desktop/WutheringHeights.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:tokenize" compatibility="7.0.000" expanded="true" height="68" name="TokenizeWH" width="90" x="782" y="136">
+        <parameter key="mode" value="regular expression"/>
+        <parameter key="characters" value=".:"/>
+        <parameter key="expression" value="[-!&quot;#$%&amp;'()*+,./:;&lt;=&gt;?@\[\\\]_`{|}~]"/>
+        <parameter key="language" value="English"/>
+        <parameter key="max_token_length" value="3"/>
+      </operator>
+      <operator activated="true" class="com.aylien.textapi.rapidminer:aylien_document_sentiment" compatibility="0.1.003" expanded="true" height="103" name="Analyze Sentiment" width="90" x="983" y="34">
+        <parameter key="connection" value="DM_09_05_Connection"/>
+        <parameter key="sentiment_mode" value="document"/>
+      </operator>
+      <connect from_op="JaneEyre" from_port="output" to_op="TokenizeJE" to_port="document"/>
+      <connect from_op="TokenizeJE" from_port="document" to_op="Analyze Sentiment" to_port="documents 1"/>
+      <connect from_op="WutheringHeights" from_port="output" to_op="TokenizeWH" to_port="document"/>
+      <connect from_op="TokenizeWH" from_port="document" to_op="Analyze Sentiment" to_port="documents 2"/>
+      <connect from_op="Analyze Sentiment" from_port="documents" to_port="result 1"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="18"/>
+    </process>
+  </operator>
+</process>

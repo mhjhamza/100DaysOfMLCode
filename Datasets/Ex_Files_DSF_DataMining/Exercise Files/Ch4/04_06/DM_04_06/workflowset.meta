@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+  <met:element form="text" name="Author">KNIME</met:element>
+  <met:element form="date" name="Creation Date">21/6/2010</met:element>
+  <met:element form="multiline" name="Comments">Decision Tree
+
+After the data is partitioned into train and test set, a decision tree model is trained and applied.</met:element>
+</met:KNIMEMetaInfo>
