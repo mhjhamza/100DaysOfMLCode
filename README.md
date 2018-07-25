@@ -90,3 +90,9 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/data-science-foundations-data-mining/welcome)
 
+## Day 16 : Jul 25 , 2018
+
+**Today's Progress** : Took "Data Visualization: Storytelling" course on LinkedIn Learning.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/data-visualization-storytelling/)
+
