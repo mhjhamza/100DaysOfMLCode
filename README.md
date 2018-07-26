@@ -96,3 +96,8 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/data-visualization-storytelling/)
 
+## Day 17 : Jul 26 , 2018
+
+**Today's Progress** : Took "Excel 2016: Managing and Analyzing Data" course on LinkedIn Learning.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/excel-2016-managing-and-analyzing-data)
