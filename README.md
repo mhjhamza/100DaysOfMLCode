@@ -101,3 +101,9 @@
 **Today's Progress** : Took "Excel 2016: Managing and Analyzing Data" course on LinkedIn Learning.
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/excel-2016-managing-and-analyzing-data)
+
+## Day 18 : Jul 27 , 2018
+
+**Today's Progress** : Learned and practiced building a Recommendation System with Python Machine Learning.
+
+**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day18.ipynb)
