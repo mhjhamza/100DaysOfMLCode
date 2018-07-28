@@ -107,3 +107,9 @@
 **Today's Progress** : Learned and practiced building a Recommendation System with Python Machine Learning.
 
 **Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day18.ipynb)
+
+## Day 19 : Jul 28 , 2018
+
+**Today's Progress** : Experimented with Postgres | Installed PgAdmin 4 | exported data to CSVs for visualization.
+
+**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day19.ipynb)
