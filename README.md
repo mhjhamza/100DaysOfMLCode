@@ -113,3 +113,11 @@
 **Today's Progress** : Experimented with Postgres | Installed PgAdmin 4 | exported data to CSVs for visualization.
 
 **Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day19.ipynb)
+
+## Day 20 : Jul 29 , 2018
+
+**Today's Progress** : Took "The Essential Elements of Predictive Analytics and Data Mining" course on LinkedIn Learning.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/paths/become-an-ai-and-machine-learning-specialist-part-i)
+
+
