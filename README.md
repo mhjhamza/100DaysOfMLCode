@@ -120,4 +120,10 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/paths/become-an-ai-and-machine-learning-specialist-part-i)
 
+## Day 21 : Jul 30 , 2018
+
+**Today's Progress** : Took "Machine Learning & AI Foundations: Value Estimations" course on LinkedIn Learning.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/machine-learning-ai-foundations-value-estimations)
+
 
