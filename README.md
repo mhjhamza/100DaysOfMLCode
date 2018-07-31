@@ -126,4 +126,9 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/machine-learning-ai-foundations-value-estimations)
 
+## Day 22 : Jul 31 , 2018
+
+**Today's Progress** : Took "building-deep-learning-applications" course on LinkedIn Learning.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/building-deep-learning-applications-with-keras-2-0/)
 
