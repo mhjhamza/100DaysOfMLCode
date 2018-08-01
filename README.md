@@ -132,3 +132,9 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/building-deep-learning-applications-with-keras-2-0/)
 
+## Day 23 : August 01 , 2018
+
+**Today's Progress** : Learned and practiced building a Deep Neural Network with Keras.
+
+**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day23.ipynb)
+
