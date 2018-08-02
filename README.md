@@ -138,3 +138,10 @@
 
 **Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day23.ipynb)
 
+## Day 24 : August 02 , 2018
+
+**Today's Progress** : Learned Building and Deploying Deep Learning Applications with TensorFlow.
+.
+**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day24.ipynb)
+
+
