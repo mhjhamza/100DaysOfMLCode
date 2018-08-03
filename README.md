@@ -144,4 +144,11 @@
 
 **Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day24.ipynb)
 
+## Day 25 : August 03 , 2018
+
+**Today's Progress** : Took "Amazon Web Services Machine Learning Essential Training" course on Linkedin Learning.
+
+**Link of Work:**   [Course](https://www.linkedin.com/learning/amazon-web-services-machine-learning-essential-training)
+
+
 
