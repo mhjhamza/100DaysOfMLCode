@@ -150,5 +150,11 @@
 
 **Link of Work:**   [Course](https://www.linkedin.com/learning/amazon-web-services-machine-learning-essential-training)
 
+## Day 26 : August 04 , 2018
+
+**Today's Progress** : Practiced with "Titanic: Machine Learning from Disaster" kernel on Kaggle.
+
+**Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day26.ipynb)
+
 
 
