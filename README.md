@@ -156,5 +156,11 @@
 
 **Link of Work:**   [Commit](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day26.ipynb)
 
+## Day 27 : August 05 , 2018
+
+**Today's Progress** : Explored "House Prices: Advanced Regression Techniques" competition on Kaggle.
+
+**Link of Work:**   [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/kernels)
+
 
 
