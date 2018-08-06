@@ -162,5 +162,8 @@
 
 **Link of Work:**   [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/kernels)
 
+## Day 28 : August 06 , 2018
 
+**Today's Progress** : Explored "Predict Pakistan Elections" competition on Kaggle and applied data wrangling.
 
+**Link of Work:**   [Kaggle](https://www.kaggle.com/zusmani/predict-pakistan-elections-2018)
