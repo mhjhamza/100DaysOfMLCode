@@ -179,3 +179,9 @@
 **Today's Progress** : Exploring "Predict Pakistan Elections 2018" competition on Kaggle and applied data wrangling. (Continued)
 
 **Link of Work:**   [Kaggle](https://www.kaggle.com/zusmani/predict-pakistan-elections-2018)
+
+## Day 31 : August 09 , 2018
+
+**Today's Progress** : Exploring "Predict Pakistan Elections 2018" competition on Kaggle and applied data wrangling. (Continued)
+
+**Link of Work:**   [Kaggle](https://www.kaggle.com/zusmani/predict-pakistan-elections-2018)
