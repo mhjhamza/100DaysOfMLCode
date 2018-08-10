@@ -186,8 +186,9 @@
 
 **Link of Work:**   [Kaggle](https://www.kaggle.com/zusmani/predict-pakistan-elections-2018)
 
+
 ## Day 32 : August 10 , 2018
 
-**Today's Progress** : Practiced Object Detection with TensorFlow SSD model.
+**Today's Progress** : Practiced Object Detection with TensorFlow Single-Shot Detection (SSD) model.
 
 **Link of Work:**   [TensorFlow](https://www.tensorflow.org/)
