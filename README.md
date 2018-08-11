@@ -192,3 +192,10 @@
 **Today's Progress** : Practiced Object Detection with TensorFlow Single-Shot Detection (SSD) model.
 
 **Link of Work:**   [TensorFlow](https://www.tensorflow.org/)
+
+
+## Day 33 : August 11 , 2018
+
+**Today's Progress** : Reading "Hands-on machine learning with Scikit-learn and Tensorflow".
+
+**Link of Work:**   [Book](http://shop.oreilly.com/product/0636920052289.do)
