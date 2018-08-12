@@ -199,3 +199,9 @@
 **Today's Progress** : Reading "Hands-on machine learning with Scikit-learn and Tensorflow".
 
 **Link of Work:**   [Book](http://shop.oreilly.com/product/0636920052289.do)
+
+## Day 34 : August 12 , 2018
+
+**Today's Progress** : Practiced Text Analysis on friend's whatsApp conversation - found most used words, emojis etc.
+
+**Link of Work:**   [Link](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day34.ipynb)
