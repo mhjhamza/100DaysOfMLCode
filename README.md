@@ -205,3 +205,13 @@
 **Today's Progress** : Practiced Text Analysis on friend's whatsApp conversation - found most used words, emojis etc.
 
 **Link of Work:**   [Link](https://github.com/mhjhamza/100DaysOfMLCode/blob/master/Code/Day34.ipynb)
+
+## Day 35 : August 13 , 2018
+
+**Today's Progress** : Enrolled in "Introduction to Data Science in Python" Specialization on Coursera.
+
+**Link of Work:**   [Link](https://www.coursera.org/learn/python-data-analysis/home/welcome)
+
+
+
+
