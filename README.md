@@ -208,9 +208,9 @@
 
 ## Day 35 : August 13 , 2018
 
-**Today's Progress** : Enrolled in "Introduction to Data Science in Python" Specialization on Coursera.
+**Today's Progress** : Enrolled in "Applied Data Science with Python" Specialization on Coursera.
 
-**Link of Work:**   [Link](https://www.coursera.org/learn/python-data-analysis/home/welcome)
+**Link of Work:**   [Link](https://www.coursera.org/specializations/data-science-python)
 
 
 
