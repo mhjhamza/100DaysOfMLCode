@@ -212,6 +212,12 @@
 
 **Link of Work:**   [Link](https://www.coursera.org/specializations/data-science-python)
 
+## Day 36 : August 14 , 2018
+
+**Today's Progress** : Took first course in the specialization "Introduction to Data Science with Python" on Coursera.
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/python-data-analysis/home/welcome)
+
 
 
 
