@@ -218,6 +218,8 @@
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-data-analysis/home/welcome)
 
+## Day 37 : August 15 , 2018
 
+**Today's Progress** : Took second course in the specialization i.e "Applied Text Mining in Python" on Coursera.
 
-
+**Link of Work:**   [Course](https://www.coursera.org/learn/python-text-mining)
