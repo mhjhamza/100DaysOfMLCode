@@ -223,3 +223,9 @@
 **Today's Progress** : Took second course in the specialization i.e "Applied Text Mining in Python" on Coursera.
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-text-mining)
+
+## Day 38 : August 16 , 2018
+
+**Today's Progress** : Continued working on WhatsApp Spy mini-project - Monitored some cantacts and generated usage charts.
+
+**Link of Work:**   [Link](https://www.coursera.org/learn/python-text-mining)
