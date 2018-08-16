@@ -1,0 +1,103 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+
+df = pd.read_csv('../hamza.csv',index_col=None)
+df['datetime'] = pd.to_datetime(df['datetime'])
+
+#
+#
+# del df['typing_count']
+# # print(df)
+# df = df.reset_index(level=None)
+# del df['Unnamed: 0']
+#
+#
+# datetime = df['datetime']
+#
+# # df['date'], df['time'] = df['datetime'].str.split(' ').str
+# # del df['datetime']
+# # columnsTitles=["B","A"]
+# # df.reindex(columns=columnsTitles)
+# # df['time'] = pd.to_datetime(df['time'])
+# # print(type(df['time'][0]))
+# # print(df.time)
+# #
+# # bins_str = pd.date_range(df['datetime'].iloc[0],df['datetime'].iloc[-1], freq='30min')
+# # labels = ['{},{}'.format(bins_str[i-1], bins_str[i]) for i in range(1, len(bins_str))]
+# # # print(labels)
+# # df['cat'] = pd.cut(df.datetime.astype(np.int64)//10**9,  bins=bins_str.astype(np.int64)//10**9,  labels=labels)
+# #
+# # # print(df['time'].iloc[-1])
+# # # obj = df.datetime[1] -df.datetime[0]
+# # # print(obj.seconds//60)
+#
+# # print(df)
+#
+#
+
+columns=['start']
+table = pd.DataFrame(columns=columns)
+
+table['start'] = df[df['status']]['datetime']
+table = table.reset_index()
+del table['index']
+
+end = df[df['status'] == False]['datetime']
+# end = end.rename(columns={'datetime': 'end'}, inplace=True)
+end = end.reset_index()
+del end['index']
+
+
+# _, table['start'] = table['start'].str.split(' ')
+
+#
+table = pd.concat([table, end], axis=1)
+table['duration'] = table['datetime'] - table['start']
+
+
+
+table.start = table.start.astype(str)
+table.datetime = table.datetime.astype(str)
+a, table.start = table.start.str.split(' ').str
+a, table.datetime = table.datetime.str.split(' ').str
+
+
+sum =str( table.duration.sum())
+
+table.duration = pd.to_datetime(table.duration).dt.time
+#.str.split(' ')[1]
+
+# table['end']
+#
+# table['duration'] = table['end'] - table['start']
+print(table)
+print(sum)
+
+
+
+# labels = ['{},{}'.format(datetime[i-1], datetime[i]) for i in range(1, len(bins_str))]
+# print(labels)
+# import numpy as np
+# import pandas as pd
+#
+# df = pd.DataFrame(np.random.random((200,3)))
+# df['date'] = pd.date_range('2000-1-1', periods=200, freq='D')
+# mask = (df['date'] > '2000-6-1') & (df['date'] <= '2000-6-10')
+# print(df.loc[mask])
+# df = pd.DataFrame(pd.date_range('2000-01-02', freq='1D', periods=15), columns=['Date'])
+#
+# bins_dt = pd.date_range('2000-01-01', freq='3D', periods=6)
+# bins_str = bins_dt.astype(str).values
+# labels = ['({}, {}]'.format(bins_str[i-1], bins_str[i]) for i in range(1, len(bins_str))]
+#
+# df['cat'] = pd.cut(df.Date.astype(np.int64)//10**9,  bins=bins_dt.astype(np.int64)//10**9,  labels=labels)
+#
+
+# print(df)
+# print(labels)
+# print(pd.cut(np.array(bins_str), 3))
+
+table.to_csv(sum + '.csv', sep='\t')
