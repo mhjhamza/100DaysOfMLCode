@@ -229,3 +229,9 @@
 **Today's Progress** : Continued working on WhatsApp Spy mini-project - Monitored some contacts and generated usage charts.
 
 **Link of Work:**   [Link](https://www.coursera.org/learn/python-text-mining)
+
+## Day 39 : August 17 , 2018
+
+**Today's Progress** : Practiced text mining, regular expressions, and regex in pandas. 
+
+**Link of Work:**   [Link](https://www.coursera.org/learn/python-text-mining)
