@@ -235,3 +235,9 @@
 **Today's Progress** : Practiced text mining, regular expressions, and regex in pandas. 
 
 **Link of Work:**   [Link](https://www.coursera.org/learn/python-text-mining)
+
+## Day 40 : August 18 , 2018
+
+**Today's Progress** : Watched "Making sense of too much data" TED talk Series. (Continued)
+
+**Link of Work:**   [TEDtalks](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
