@@ -241,3 +241,9 @@
 **Today's Progress** : Watched "Making sense of too much data" TED talk Series. (Continued)
 
 **Link of Work:**   [TEDtalks](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+
+## Day 41 : August 19 , 2018
+
+**Today's Progress** : Practiced text mining with NLTK, PorterStemmer, CFGs and Sentimental Analysis.
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/python-text-mining)
