@@ -250,6 +250,6 @@
 
 ## Day 42 : August 20 , 2018
 
-**Today's Progress** : Practiced text mining with NLTK, PorterStemmer, CFGs and Sentimental Analysis.
+**Today's Progress** : Practiced text mining with NLTK, Naive Bayes, Support Vector Machines and Sentiment-analysis.
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-text-mining)
