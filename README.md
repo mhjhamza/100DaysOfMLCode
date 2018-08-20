@@ -247,3 +247,9 @@
 **Today's Progress** : Practiced text mining with NLTK, PorterStemmer, CFGs and Sentimental Analysis.
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-text-mining)
+
+## Day 42 : August 20 , 2018
+
+**Today's Progress** : Practiced text mining with NLTK, PorterStemmer, CFGs and Sentimental Analysis.
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/python-text-mining)
