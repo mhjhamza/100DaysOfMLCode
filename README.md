@@ -253,3 +253,7 @@
 **Today's Progress** : Practiced text mining with NLTK, Naive Bayes, Support Vector Machines and Sentiment-analysis.
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-text-mining)
+
+## Day 43 : August 21 , 2018
+
+**Today's Progress** : Prepared slides and scikit-learn practice notebooks for my upcoming MachineLearning session.
