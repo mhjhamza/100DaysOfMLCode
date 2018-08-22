@@ -257,3 +257,10 @@
 ## Day 43 : August 21 , 2018
 
 **Today's Progress** : Prepared slides and scikit-learn practice notebooks for my upcoming MachineLearning session.
+
+## Day 44 : August 21 , 2018
+
+**Today's Progress** : Practiced Plotting, Charting & Data Representation with MatPlotLib and Seaborn in Python.
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/python-plotting)
+
