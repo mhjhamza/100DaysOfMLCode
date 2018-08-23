@@ -264,3 +264,9 @@
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-plotting)
 
+## Day 45 : August 22 , 2018
+
+**Today's Progress** : Practiced Plotting, Charting & Data Representation with MatPlotLib and Seaborn in Python. (Continued)
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/python-plotting)
+
