@@ -270,3 +270,9 @@
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-plotting)
 
+## Day 46 : August 23 , 2018
+
+**Today's Progress** : Started "Machine Learning" course by Sebastian Thrun and Katie Malone on Udacity.
+
+**Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
+
