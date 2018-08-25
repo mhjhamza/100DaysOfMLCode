@@ -258,21 +258,26 @@
 
 **Today's Progress** : Prepared slides and scikit-learn practice notebooks for my upcoming MachineLearning session.
 
-## Day 44 : August 21 , 2018
+## Day 44 : August 22 , 2018
 
 **Today's Progress** : Practiced Plotting, Charting & Data Representation with MatPlotLib and Seaborn in Python.
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-plotting)
 
-## Day 45 : August 22 , 2018
+## Day 45 : August 23 , 2018
 
 **Today's Progress** : Practiced Plotting, Charting & Data Representation with MatPlotLib and Seaborn in Python. (Continued)
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/python-plotting)
 
-## Day 46 : August 23 , 2018
+## Day 46 : August 24 , 2018
 
 **Today's Progress** : Started "Machine Learning" course by Sebastian Thrun and Katie Malone on Udacity.
 
 **Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
 
+## Day 47 : August 25 , 2018
+
+**Today's Progress** : Studied Naive Bayes, Support Vector Machine and Decision trees - learned parameter tuning.
+
+**Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
