@@ -16,6 +16,7 @@ grade_slow = [features_train[ii][0] for ii in range(0, len(features_train)) if l
 bumpy_slow = [features_train[ii][1] for ii in range(0, len(features_train)) if labels_train[ii]==1]
 
 
+
 #### initial visualization
 plt.xlim(0.0, 1.0)
 plt.ylim(0.0, 1.0)
