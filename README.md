@@ -287,3 +287,9 @@
 **Today's Progress** : Today, I learned and applied K-Nearest Neighbors, Random Forest, and AdaBoost to Anron-Email #Dataset. Udacity’s Intro to Machine Learning is a really interactive course - I recommend this course even if you aren't a beginner. It refreshes the machine learning basics. It’s enriched with quick quizzes that require an input from learner every few minutes to make sure he/she has assimilated the whole concept. It helps the learner to audit him/herself and go back if needed. I’ve added the course link below.
 
 **Link of Work:**   [Course](Udacity.com/course/intro-to-machine-learning--ud120)
+
+## Day 49 : August 27 , 2018
+
+**Today's Progress** : Explored Enron Dataset with Udacity's Datasets and Questions Module | Pandas
+
+**Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
