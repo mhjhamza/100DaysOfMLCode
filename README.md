@@ -293,3 +293,11 @@
 **Today's Progress** : Explored Enron Dataset with Udacity's Datasets and Questions Module | Pandas | Numpy
 
 **Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
+
+## Day 50 : August 28 , 2018
+
+**Today's Progress** :  Applied Outlier Detection and practiced removing outliers from the dataset.
+
+**Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
+
+
