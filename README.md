@@ -290,6 +290,6 @@
 
 ## Day 49 : August 27 , 2018
 
-**Today's Progress** : Explored Enron Dataset with Udacity's Datasets and Questions Module | Pandas
+**Today's Progress** : Explored Enron Dataset with Udacity's Datasets and Questions Module | Pandas | Numpy
 
 **Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
