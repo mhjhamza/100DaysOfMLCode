@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+import numpy as np
+from operator import itemgetter
 
 def outlierCleaner(predictions, ages, net_worths):
     """
@@ -14,7 +16,14 @@ def outlierCleaner(predictions, ages, net_worths):
     cleaned_data = []
 
     ### your code goes here
-
+    for pred, y,age in zip(predictions, net_worths, ages):
+        err = abs(pred - y)
+        cleaned_data.append((age,y, err))
     
+    
+    
+    
+    cleaned_data.sort(key=itemgetter(2))
+    cleaned_data = cleaned_data[: int(len(cleaned_data)* 0.9)]
     return cleaned_data
 
