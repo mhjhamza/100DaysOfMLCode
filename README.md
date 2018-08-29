@@ -300,4 +300,10 @@
 
 **Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
 
+## Day 51 : August 29 , 2018
+
+**Today's Progress** :  Practiced Clustering, Feature Selection, Text Learning and Feature Selection.
+
+**Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
+
 
