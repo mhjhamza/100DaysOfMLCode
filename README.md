@@ -311,3 +311,9 @@
 **Today's Progress** :  Practiced PCA, Autoencoders and Evaluation Metrics with Udacity.
 
 **Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
+
+## Day 53 : August 31 , 2018
+
+**Today's Progress** :  Practiced CNN, RNN - LSTM using TensorFlow with Udacity's Deep Learning.
+
+**Link of Work:**   [Course](https://classroom.udacity.com/courses/ud730)
