@@ -1,4 +1,4 @@
-# 100 Days Of ML - LOG
+# 100 Days Of ML - Today I Learned... 
 
 ## Day 1 : Jul 10 , 2018
 
@@ -306,4 +306,8 @@
 
 **Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
 
+## Day 52 : August 30 , 2018
 
+**Today's Progress** :  Practiced PCA, Autoencoders and Evaluation Metrics with Udacity.
+
+**Link of Work:**   [Course](https://classroom.udacity.com/courses/ud120)
