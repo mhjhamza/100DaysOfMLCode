@@ -317,3 +317,13 @@
 **Today's Progress** :  Practiced CNN, RNN - LSTM using TensorFlow with Udacity's Deep Learning.
 
 **Link of Work:**   [Course](https://classroom.udacity.com/courses/ud730)
+
+--------------*Started working on Kaggle Deep Learning Competition*--------------
+
+## Day 5 : September 01 , 2018
+
+**Today's Progress** : 1) Joined the "Digit Recognizer" competition on Kaggle 2) Learned and applied RNN - LSTM.
+
+**Link of Work:**   [Competition](https://www.kaggle.com/c/digit-recognizer/kernels)
+
+
