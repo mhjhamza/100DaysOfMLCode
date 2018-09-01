@@ -320,7 +320,7 @@
 
 --------------*Started working on Kaggle Deep Learning Competition*--------------
 
-## Day 5 : September 01 , 2018
+## Day 54 : September 01 , 2018
 
 **Today's Progress** : 1) Joined the "Digit Recognizer" competition on Kaggle 2) Learned and applied RNN - LSTM.
 
