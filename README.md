@@ -326,4 +326,10 @@
 
 **Link of Work:**   [Competition](https://www.kaggle.com/c/digit-recognizer/kernels)
 
+## Day 55 : September 02 , 2018
+
+**Today's Progress** : Achieved 99.142% accuracy on Digit Recognizer and got ranked in TOP 35% of the 2234 competitors.
+
+**Link of Work:**   [Competition](https://www.kaggle.com/c/digit-recognizer/kernels)
+
 
