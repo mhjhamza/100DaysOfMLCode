@@ -332,4 +332,10 @@
 
 **Link of Work:**   [Competition](https://www.kaggle.com/c/digit-recognizer/kernels)
 
+## Day 56 : September 03 , 2018
+
+**Today's Progress** : Joined the "House Prices: Advanced Regression Techniques" competition on Kaggle.
+
+**Link of Work:**   [Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
 
