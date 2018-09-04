@@ -338,4 +338,10 @@
 
 **Link of Work:**   [Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
+## Day 57 : September 04 , 2018
+
+**Today's Progress** : Working on the "House Prices: Advanced Regression Techniques" competition on Kaggle. (Continued)
+
+**Link of Work:**   [Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
 
