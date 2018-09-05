@@ -344,4 +344,10 @@
 
 **Link of Work:**   [Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
+## Day 58 : September 05 , 2018
+
+**Today's Progress** : Explored Image Annotation Tools - LabelImg, VATIC, CVAT.
+
+**Link of Work:**   [Tool](https://github.com/opencv/cvat)
+
 
