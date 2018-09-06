@@ -350,4 +350,10 @@
 
 **Link of Work:**   [Tool](https://github.com/opencv/cvat)
 
+## Day 59 : September 06 , 2018
+
+**Today's Progress** : Worked on Recurrent Neural Network - LSTM with Keras | Deep Learning with Keras by François Chollet.
+
+**Link of Work:**   [Book](https://www.manning.com/books/deep-learning-with-python)
+
 
