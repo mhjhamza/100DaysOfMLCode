@@ -356,4 +356,9 @@
 
 **Link of Work:**   [Book](https://www.manning.com/books/deep-learning-with-python)
 
+## Day 60 : September 07 , 2018
+
+**Today's Progress** : Worked on pre-trained CovNets including VGG , ResNet, Inception with Keras.
+
+**Link of Work:**   [Book](https://www.manning.com/books/deep-learning-with-python)
 
