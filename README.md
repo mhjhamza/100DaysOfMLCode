@@ -362,3 +362,9 @@
 
 **Link of Work:**   [Book](https://www.manning.com/books/deep-learning-with-python)
 
+## Day 61 : September 08 , 2018
+
+**Today's Progress** : Trained an object detection model with TensorFlow OD API | RFCN Architecture.
+
+**Link of Work:**   [TF Home](https://www.tensorflow.org/)
+
