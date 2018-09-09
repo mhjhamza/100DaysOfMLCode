@@ -368,3 +368,9 @@
 
 **Link of Work:**   [TF Home](https://www.tensorflow.org/)
 
+## Day 62 : September 09 , 2018
+
+**Today's Progress** : Reading "Natural Language Processing with Python" by Edward Loper, Ewan Klein, and Steven Bird.
+
+**Link of Work:**   [Book](https://www.nltk.org/book/)
+
