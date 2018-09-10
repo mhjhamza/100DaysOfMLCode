@@ -374,3 +374,9 @@
 
 **Link of Work:**   [Book](https://www.nltk.org/book/)
 
+## Day 63 : September 10 , 2018
+
+**Today's Progress** : Explored Spark & Hadoop, Resilient Distributed Dataset (RDD), Spark configuration, monitoring and tuning.
+
+**Link of Work:**   [Course](https://www.youracclaim.com/org/ibm/badge/spark-level-1)
+
