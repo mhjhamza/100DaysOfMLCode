@@ -380,3 +380,8 @@
 
 **Link of Work:**   [Course](https://www.youracclaim.com/org/ibm/badge/spark-level-1)
 
+## Day 64 : September 11 , 2018
+
+**Today's Progress** : Practicing with "House Prices: Advanced Regression Techniques" on Kaggle. 
+
+**Link of Work:**   [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
