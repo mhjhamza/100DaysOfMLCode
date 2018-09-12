@@ -385,3 +385,9 @@
 **Today's Progress** : Practicing with "House Prices: Advanced Regression Techniques" on Kaggle. 
 
 **Link of Work:**   [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
+## Day 65 : September 12 , 2018
+
+**Today's Progress** : Practicing with "House Prices: Advanced Regression Techniques" on Kaggle. (Continued)
+
+**Link of Work:**   [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
