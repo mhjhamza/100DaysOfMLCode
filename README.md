@@ -391,3 +391,9 @@
 **Today's Progress** : Practicing with "House Prices: Advanced Regression Techniques" on Kaggle. (Continued)
 
 **Link of Work:**   [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
+## Day 66 : September 13 , 2018
+
+**Today's Progress** : Explored Spark & Hadoop, Resilient Distributed Dataset (RDD), Spark configuration, monitoring and tuning.
+
+**Link of Work:**   [Course](https://www.youracclaim.com/org/ibm/badge/spark-level-1)
