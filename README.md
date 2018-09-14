@@ -397,3 +397,9 @@
 **Today's Progress** : Explored Spark & Hadoop, Resilient Distributed Dataset (RDD), Spark configuration, monitoring and tuning.
 
 **Link of Work:**   [Course](https://www.youracclaim.com/org/ibm/badge/spark-level-1)
+
+## Day 67 : September 14 , 2018
+
+**Today's Progress** : Started working on "Movie Review Sentiment Analysis" competition on Kaggle.
+
+**Link of Work:**   [Competition](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only)
