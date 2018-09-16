@@ -404,14 +404,17 @@
 
 **Link of Work:**   [Competition](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only)
 
-
-
-
-
-
 ## Day 68 : September 15 , 2018
 
-**Today's Progress** : Hadoop Spark
+**Today's Progress** : Explored Spark & Hadoop, Resilient Distributed Dataset (RDD), Spark configuration, monitoring and tuning.
+
+**Link of Work:**   [Course](https://www.youracclaim.com/org/ibm/badge/spark-level-1)
+
+## Day 69 : September 16 , 2018
+
+**Today's Progress** : Learning and experimenting with Reinforcement Learning.
+
+**Link of Work:**   [Introduction](https://www.youtube.com/watch?v=e3Jy2vShroE)
 
 
 
