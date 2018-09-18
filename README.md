@@ -422,6 +422,12 @@
 
 **Link of Work:**   [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
+## Day 71 : September 18 , 2018
+
+**Today's Progress** : Experimenting with Generative Adverserial Network | Neural Style Transfer with Keras. (Continued)
+
+**Link of Work:**   [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+
 
 
 
