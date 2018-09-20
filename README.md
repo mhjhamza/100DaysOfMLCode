@@ -433,3 +433,10 @@
 **Today's Progress** : Reading "Natural Language Processing with Python" by Edward Loper, Ewan Klein, and Steven Bird.
 
 **Link of Work:**   [Book](https://www.nltk.org/book)
+
+## Day 72 : September 19 , 2018
+
+**Today's Progress** : Reading "Natural Language Processing with Python" by Edward Loper, Ewan Klein, and Steven Bird.
+
+**Link of Work:**   [Book](https://www.nltk.org/book)
+
