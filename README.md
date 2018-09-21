@@ -440,3 +440,8 @@
 
 **Link of Work:**   [Book](https://www.nltk.org/book)
 
+## Day 74 : September 21 , 2018
+
+**Today's Progress** : Worked on Object Detection ResNet with TensorFlow and Keras.
+
+**Link of Work:**   [TF Home](https://www.tensorflow.org/)
