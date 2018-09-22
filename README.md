@@ -445,3 +445,9 @@
 **Today's Progress** : Worked on Object Detection ResNet with TensorFlow and Keras.
 
 **Link of Work:**   [TF Home](https://www.tensorflow.org/)
+
+## Day 75 : September 22 , 2018
+
+**Today's Progress** : Worked on Object Detection ResNet with TensorFlow and Keras. (Continued)
+
+**Link of Work:**   [TF Home](https://www.tensorflow.org/)
