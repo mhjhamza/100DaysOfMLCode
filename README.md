@@ -451,3 +451,9 @@
 **Today's Progress** : Worked on Object Detection ResNet with TensorFlow and Keras. (Continued)
 
 **Link of Work:**   [TF Home](https://www.tensorflow.org/)
+
+## Day 76 : September 23 , 2018
+
+**Today's Progress** : Worked on NLTK Text Classification with "Natural Language Processing with Python".
+
+**Link of Work:**   [Book](https://www.nltk.org/book)
