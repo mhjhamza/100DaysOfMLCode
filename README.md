@@ -457,3 +457,12 @@
 **Today's Progress** : Worked on NLTK Text Classification with "Natural Language Processing with Python".
 
 **Link of Work:**   [Book](https://www.nltk.org/book)
+
+## Day 77 : September 24 , 2018
+
+**Today's Progress** : Started "Fundamentals of Scalable Data Science" course one of IBM Data Science Specialization.
+
+**Link of Work:**   [Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
+
+
+
