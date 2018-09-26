@@ -446,19 +446,19 @@
 
 **Link of Work:**   [TF Home](https://www.tensorflow.org/)
 
-## Day 75 : September 22 , 2018
+## Day 75 : September 22, 2018
 
 **Today's Progress** : Worked on Object Detection ResNet with TensorFlow and Keras. (Continued)
 
 **Link of Work:**   [TF Home](https://www.tensorflow.org/)
 
-## Day 76 : September 23 , 2018
+## Day 76 : September 23, 2018
 
 **Today's Progress** : Worked on NLTK Text Classification with "Natural Language Processing with Python".
 
 **Link of Work:**   [Book](https://www.nltk.org/book)
 
-## Day 77 : September 24 , 2018
+## Day 77 : September 24, 2018
 
 **Today's Progress** : Started "Fundamentals of Scalable Data Science" course one of IBM Data Science Specialization.
 
