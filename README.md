@@ -476,3 +476,7 @@
 **Today's Progress** : Started "Fundamentals of Scalable Data Science" course one of IBM Data Science Specialization (Continued).
 
 **Link of Work:**   [Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
+
+## Day 80 : September 27, 2018
+
+**Today's Progress** : Prepared presentation and hands-on coding example for the upcoming ML session.
