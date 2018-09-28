@@ -480,3 +480,11 @@
 ## Day 80 : September 27, 2018
 
 **Today's Progress** : Prepared presentation and hands-on coding example for the upcoming ML session.
+
+## Day 81 : September 28, 2018
+
+**Today's Progress** : Studying "Feature Engineering for Machine Learning" by Alice Zheng and Amanda Casari.
+
+**Link of Work:**   [Book](http://shop.oreilly.com/product/0636920049081.do)
+
+
