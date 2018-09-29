@@ -487,4 +487,10 @@
 
 **Link of Work:**   [Book](http://shop.oreilly.com/product/0636920049081.do)
 
+## Day 82 : September 29, 2018
+
+**Today's Progress** : Studying "Feature Engineering for Machine Learning" by Alice Zheng and Amanda Casari.
+
+**Link of Work:**   [Book](http://shop.oreilly.com/product/0636920049081.do)
+
 
