@@ -495,4 +495,6 @@
 
 ## Day 83 : September 30, 2018
 
-**Today's Progress** : Doing research on Enterprise AI - Applications of AI in finacial industry.
+**Today's Progress** : Studying "Feature Engineering for Machine Learning" by Alice Zheng and Amanda Casari.
+
+**Link of Work:**   [Book](http://shop.oreilly.com/product/0636920049081.do)
