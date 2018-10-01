@@ -498,3 +498,8 @@
 **Today's Progress** : Studying "Feature Engineering for Machine Learning" by Alice Zheng and Amanda Casari.
 
 **Link of Work:**   [Book](http://shop.oreilly.com/product/0636920049081.do)
+
+## Day 84 : October 01, 2018
+
+**Today's Progress** : Worked on TensorFlow Object Detection and Keras for a pet project.
+
