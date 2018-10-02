@@ -503,3 +503,7 @@
 
 **Today's Progress** : Worked on TensorFlow Object Detection and Keras for a pet project.
 
+## Day 85 : October 02, 2018
+
+**Today's Progress** : Worked on TensorFlow Object Detection and Keras for a pet project. (Continued)
+
