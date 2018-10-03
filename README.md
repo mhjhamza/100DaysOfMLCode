@@ -507,3 +507,9 @@
 
 **Today's Progress** : Worked on TensorFlow Object Detection and Keras for a pet project. (Continued)
 
+## Day 86 : October 03, 2018
+
+**Today's Progress** : Watching 13 videos TED talks playlist "Making sense of too much data".
+
+**Link of Work:**   [Playlist](http://www.ted.com/playlists/56/making_sense_of_too_much_data)
+
