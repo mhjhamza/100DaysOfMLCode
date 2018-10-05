@@ -519,3 +519,9 @@
 
 **Link of Work:**   [Playlist](http://www.ted.com/playlists/56/making_sense_of_too_much_data)
 
+## Day 87 : October 04, 2018
+
+**Today's Progress** : Finished watching 13 videos TED talks playlist "Making sense of too much data".
+
+**Link of Work:**   [Playlist](http://www.ted.com/playlists/56/making_sense_of_too_much_data)
+
