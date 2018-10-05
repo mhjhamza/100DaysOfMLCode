@@ -525,3 +525,4 @@
 
 **Link of Work:**   [Playlist](http://www.ted.com/playlists/56/making_sense_of_too_much_data)
 
+## Day 89 : October 06, 2018
