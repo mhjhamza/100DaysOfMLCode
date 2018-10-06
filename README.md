@@ -56,7 +56,7 @@
 
 ## Day 10 : Jul 19 , 2018
 
-**Today's Progress** : Read articles from the book "HBR Guide to Data Analytics Basics for Managers".
+**Today's Progress** : Read articles from the "HBR Guide to Data Analytics Basics for Managers".
 
 **Link of Work:**   [Book](https://hbr.org/product/hbr-guide-to-data-analytics-basics-for-managers/10185-PBK-ENG)
 
@@ -526,3 +526,7 @@
 **Link of Work:**   [Playlist](http://www.ted.com/playlists/56/making_sense_of_too_much_data)
 
 ## Day 89 : October 06, 2018
+
+**Today's Progress** : Reading "Deep learning with text and sequences" Deep learning by François Chollet
+
+**Link of Work:**   [Book](https://www.manning.com/books/deep-learning-with-python)
