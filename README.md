@@ -530,3 +530,13 @@
 **Today's Progress** : Reading "Deep learning with text and sequences" Deep learning by François Chollet
 
 **Link of Work:**   [Book](https://www.manning.com/books/deep-learning-with-python)
+
+## Day 90 : October 07, 2018
+
+**Today's Progress** : Started "Advanced Machine Learning and Signal Processing" course on Coursera.
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
+
+
+
+
