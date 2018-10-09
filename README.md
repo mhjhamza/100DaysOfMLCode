@@ -543,6 +543,8 @@
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
 
+## Day 92 : October 09, 2018
 
+**Today's Progress** : Week 3 | "Advanced Machine Learning and Signal Processing" course on Coursera.
 
-
+**Link of Work:**   [Course](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
