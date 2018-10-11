@@ -554,3 +554,11 @@
 **Today's Progress** : Week 4 | "Advanced Machine Learning and Signal Processing" course on Coursera.
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
+
+## Day 94 : October 11, 2018
+
+**Today's Progress** : Started "Applied AI with DeepLearning" course on Coursera.
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/ai/home/welcome)
+
+
