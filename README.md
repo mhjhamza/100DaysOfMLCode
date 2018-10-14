@@ -573,3 +573,9 @@
 
 **Link of Work:**   [Course](https://www.coursera.org/learn/ai/home/welcome)
 
+## Day 97 : October 14, 2018
+
+**Today's Progress** : Week 2 | "Applied AI with DeepLearning" course on Coursera. (Continued)
+
+**Link of Work:**   [Course](https://www.coursera.org/learn/ai/home/welcome)
+
